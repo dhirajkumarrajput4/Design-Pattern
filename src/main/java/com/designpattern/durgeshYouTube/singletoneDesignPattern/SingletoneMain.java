@@ -1,4 +1,4 @@
-package com.designpattern.singletoneDesignPattern;
+package com.designpattern.durgeshYouTube.singletoneDesignPattern;
 
 public class SingletoneMain {
     public static void main(String[] args){

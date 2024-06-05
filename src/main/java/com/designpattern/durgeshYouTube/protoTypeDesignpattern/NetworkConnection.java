@@ -1,4 +1,4 @@
-package com.designpattern.protoTypeDesignpattern;
+package com.designpattern.durgeshYouTube.protoTypeDesignpattern;
 
 import java.util.ArrayList;
 import java.util.List;

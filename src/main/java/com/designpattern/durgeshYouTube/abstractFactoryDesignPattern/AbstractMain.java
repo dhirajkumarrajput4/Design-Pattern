@@ -1,4 +1,4 @@
-package com.designpattern.abstractFactoryDesignPattern;
+package com.designpattern.durgeshYouTube.abstractFactoryDesignPattern;
 
 public class AbstractMain {
     public static void main(String[] args){

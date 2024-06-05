@@ -1,4 +1,4 @@
-package com.designpattern.builderDesignPattern;
+package com.designpattern.durgeshYouTube.builderDesignPattern;
 
 public class BuilderDesignPatternTest {
     public static void main(String[] agr){

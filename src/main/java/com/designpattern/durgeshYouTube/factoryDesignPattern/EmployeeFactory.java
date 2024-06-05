@@ -1,4 +1,4 @@
-package com.designpattern.factoryDesignPattern;
+package com.designpattern.durgeshYouTube.factoryDesignPattern;
 
 public class EmployeeFactory {
 

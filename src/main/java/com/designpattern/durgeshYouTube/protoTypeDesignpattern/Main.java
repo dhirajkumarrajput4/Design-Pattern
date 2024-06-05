@@ -1,4 +1,4 @@
-package com.designpattern.protoTypeDesignpattern;
+package com.designpattern.durgeshYouTube.protoTypeDesignpattern;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException, CloneNotSupportedException {

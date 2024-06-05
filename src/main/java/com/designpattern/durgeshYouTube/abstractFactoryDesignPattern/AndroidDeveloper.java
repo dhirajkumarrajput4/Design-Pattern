@@ -1,10 +1,10 @@
-package com.designpattern.abstractFactoryDesignPattern;
+package com.designpattern.durgeshYouTube.abstractFactoryDesignPattern;
 
-public class WebDeveloper implements Employee {
+public class AndroidDeveloper implements Employee {
     private String name;
     private Integer salary;
 
-    public WebDeveloper(String name, Integer salary) {
+    public AndroidDeveloper(String name, Integer salary) {
         this.name = name;
         this.salary = salary;
     }
@@ -37,7 +37,7 @@ public class WebDeveloper implements Employee {
 
     @Override
     public String toString() {
-        return "WebDeveloper{" +
+        return "AndroidDeveloper{" +
                 "name='" + name + '\'' +
                 ", salary=" + salary +
                 '}';

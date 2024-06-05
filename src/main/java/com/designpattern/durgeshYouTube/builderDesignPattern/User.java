@@ -1,4 +1,4 @@
-package com.designpattern.builderDesignPattern;
+package com.designpattern.durgeshYouTube.builderDesignPattern;
 
 public class User {
     private final String userId;
