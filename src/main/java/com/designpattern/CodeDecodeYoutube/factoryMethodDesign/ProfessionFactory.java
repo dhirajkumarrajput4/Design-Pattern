@@ -1,7 +1,6 @@
 package com.designpattern.CodeDecodeYoutube.factoryMethodDesign;
 
 public class ProfessionFactory {
-
     public Profession getProfession(String typeOfProfession) {
         if (typeOfProfession.equalsIgnoreCase("Doctor")) {
             return new Doctor();
